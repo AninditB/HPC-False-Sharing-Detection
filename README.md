@@ -124,6 +124,12 @@ The pipeline:
 
 ---
 
+## Pipeline Flowchart
+
+See [FLOWCHART.md](FLOWCHART.md) for the full end-to-end Mermaid diagram.
+
+---
+
 ## Author
 
 Anindit Bordoloi
